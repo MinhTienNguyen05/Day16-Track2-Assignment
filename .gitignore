@@ -12,6 +12,8 @@ override.tf.json
 *_override.tf.json
 .terraformrc
 terraform.rc
+ssh_config
+.terraform.lock.hcl
 
 # SSH Keys
 lab-key
